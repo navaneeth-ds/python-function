@@ -1,5 +1,5 @@
-a = int(input("enter marks:"))
+a = int(input("Enter Marks:"))
 if a>=35:
-  print("pass")
+  print("Pass")
 else :
   print("Fail")
